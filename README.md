@@ -6,7 +6,7 @@ Download XtremeMinergateMiner.7z or XtremeMinergateMiner.zip
 
 Unzip the file
 
-Go to the following unzipped folder :  \XtremeMinergateMiner\MiningLauncher\bin\Debug
+Go to the following unzipped folder :  XtremeMinergateMiner\MiningLauncher\bin\Debug
 
 Click on the following executable file : XtremeMinergateMiner.exe
 
