@@ -4,6 +4,7 @@ Application combining Xmrig and XmrMiner (CPU + GPU) for mining Bytecoin on Mine
 You do not have to install Xmrig and XmrMiner as they are included in the zip folder.
 
 
+
 Download XtremeMinergateMiner.7z or XtremeMinergateMiner.zip
 
 Unzip the file
