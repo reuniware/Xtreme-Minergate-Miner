@@ -14,7 +14,7 @@ Enter you email address in the displayed form
 
 Click on "Start Miners"
 
-Check that the status box show "Started"
+Check that the status box shows "Started"
 
 
 
