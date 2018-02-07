@@ -26,3 +26,5 @@ While it is mining, you can check that this is correctly working by logging in M
 
 Future versions will mine other cryptocurrencies.
 
+feedback : investdatasystems@yahoo.com
+
