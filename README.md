@@ -1,4 +1,5 @@
-# Xtreme-Minergate-Miner (Bytecoin CPU and GPU miner for Minergate Pool)
+# Xtreme-Minergate-Miner 
+# (Bytecoin CPU and GPU miner for Minergate Pool)
 Application combining Xmrig and XmrMiner (CPU + GPU) for mining Bytecoin on Minergate mining pool.
 
 You do not have to install Xmrig and XmrMiner as they are included in the zip folder.
