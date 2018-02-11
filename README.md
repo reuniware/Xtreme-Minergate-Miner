@@ -47,3 +47,10 @@ Alternative download file :
 
 https://investdatasystems.000webhostapp.com/xmm1.0.zip
 
+
+
+Blog about Finance :
+
+https://ichimoku-expert.blogspot.com
+
+
