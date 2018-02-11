@@ -41,3 +41,9 @@ Future versions will mine other cryptocurrencies.
 
 feedback : investdatasystems@yahoo.com
 
+
+
+Alternative download file :
+
+https://investdatasystems.000webhostapp.com/xmm1.0.zip
+
