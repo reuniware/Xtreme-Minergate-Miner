@@ -43,7 +43,7 @@ feedback : investdatasystems@yahoo.com
 
 
 
-Alternative download file :
+Alternative download link :
 
 https://investdatasystems.000webhostapp.com/xmm1.0.zip
 
