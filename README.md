@@ -61,3 +61,6 @@ https://github.com/reuniware/Xtreme-Monero-Minergate-Miner
 
 
 
+Forum :
+
+http://investdata.byethost6.com/smf
