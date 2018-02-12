@@ -54,3 +54,10 @@ Blog about Finance :
 https://ichimoku-expert.blogspot.com
 
 
+
+Xtreme Monero Minergate Miner download :
+
+https://github.com/reuniware/Xtreme-Monero-Minergate-Miner
+
+
+
